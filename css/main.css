@@ -1,0 +1,77 @@
+*{
+  margin: 0;
+}
+
+a {
+ color: #FFFFFF;
+ text-decoration: none;
+}
+
+h4 {
+  background-color: #FF8C00;
+  color: #FFFFFF;
+  display: inline-block;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+  height: 50px;
+  margin-left: 10%;
+  padding: 20px;
+  text-align: center;
+  text-shadow: 50px;
+  width: 80%;
+}
+
+.one {
+  background-color: #A9A9A9;
+  display: block;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  height: 50px;
+  margin-left: 10%;
+  padding: 20px;
+  text-align: center;
+  text-shadow: 50px;
+  width: 80%;
+}
+.one:hover {
+  background-color: #FF8C00;
+  color: #FFFFFF;
+}
+
+.three{
+  background-color: #A9A9A9;
+  display: block;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  height: 50px;
+  margin-left: 10%;
+  padding: 20px;
+  text-align: center;
+  text-shadow: 50px;
+  width: 80%;
+}
+.three:hover{
+  background-color: #FF8C00;
+  color: #FFFFFF;
+}
+
+.two {
+  background-color: #A9A9A9;
+  display: block;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  height: 50px;
+  padding: 20px;
+  margin-left: 10%;
+  text-align: center;
+  text-shadow: 50px;
+  width: 80%;
+  }
+.two:hover{
+  background-color: #FF8C00;
+  color: #FFFFFF;
+}

@@ -1,0 +1,32 @@
+.container {
+  font-family: 'Bungee', cursive;
+  font-size: 40px;
+  text-align: center;
+}
+
+[class*= "col-"] {
+  color: #FFF;
+  float: left;
+  margin-top: 20px;
+  min-height: 7px;
+  padding: 12px;
+}
+
+.a {
+  background-color: #FFFF00;
+  height: 100px;
+  width: 100%;
+}
+
+.b {
+  background-color: #40E0D0;
+  border-right: 20px solid #FFF;
+  float: left;
+  height: 500px;
+}
+
+.c {
+  background-color: #FF69B4;
+  float: right;
+  height: 500px;
+}
