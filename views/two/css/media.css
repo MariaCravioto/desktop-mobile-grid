@@ -1,1 +1,103 @@
+/*
+*iPad
+*/
+@media all and (max-width: 768px) {
 
+  .container {
+      border-right: 20px solid #FFF;
+      margin: 10px;
+  }
+
+  [class*= "col-"] {
+    margin-top: 10px;
+  }
+
+ #f {
+    height: 200px;
+    margin-top: 0;
+    width: 100%;
+  }
+
+ #row{
+   width: 100%;
+   margin-bottom: 10px;
+ }
+  .col-2{
+    margin-left: 30px;
+   }
+
+  .a {
+    height: 200px;
+    width: 100%;
+  }
+
+  .b {
+    border-right: none;
+    height: 400px;
+    width: 100%;
+  }
+
+  .c {
+    height: 200px;
+  }
+
+  .d {
+    height: 200px;
+  }
+
+  .e {
+    height: 200px;
+  }
+
+}
+
+/*
+*mobile
+*/
+@media all and (max-width: 414px) {
+
+  .container {
+      border-right: 20px solid #FFF;
+      margin: 10px;
+  }
+
+  [class*= "col-"] {
+    margin-top: 10px;
+  }
+
+ #row{
+   width: 100%;
+ }
+
+  .col-2{
+    margin-left: 100px;
+   }
+
+  .a {
+    height: 100px;
+    width: 100%;
+  }
+
+  .b {
+    border-right: none;
+    height: 250px;
+    width: 100%;
+  }
+
+  .c {
+    height: 150px;
+  }
+
+  .d {
+    height: 150px;
+  }
+
+  .e {
+    height: 150px;
+  }
+
+  .f {
+    height: 100px;
+    width: 100%;
+  }
+}

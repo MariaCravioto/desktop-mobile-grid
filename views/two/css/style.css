@@ -1,1 +1,57 @@
+.container {
+  font-family: 'Bungee', cursive;
+  font-size: 40px;
+  text-align: center;
+}
 
+[class*= "col-"] {
+  color: #FFF;
+  float: left;
+  margin-top: 10px;
+  min-height: 7px;
+  padding: 12px;
+}
+
+#f {
+  background-color: #FF69B4;
+  display: inline-block;
+  float: right;
+  height: 540px;
+  margin-top: -540px;
+}
+
+#row{
+  display: inline-block;
+  float: left;
+  top: 200px;
+  width: 65%;
+}
+
+.a {
+  background-color: #FFFF00;
+  height: 100px;
+  width: 100%;
+}
+
+.b {
+  background-color: #40E0D0;
+  border-right: 20px solid #FFF;
+  float: left;
+  height: 330px;
+}
+
+.c {
+  background-color: #4169E1;
+  height: 200px;
+  padding-right: 7px solid #FFF;
+}
+
+.d {
+  background-color: #FF1493;
+  height: 200px;
+}
+
+.e {
+  background-color: #DAA520;
+  height: 200px;
+}
