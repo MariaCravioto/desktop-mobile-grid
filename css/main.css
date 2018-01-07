@@ -22,6 +22,11 @@ h4 {
   width: 80%;
 }
 
+.container {
+  max-width: 1200px;
+  width: 100%;
+}
+
 .one {
   background-color: #A9A9A9;
   display: block;
@@ -74,4 +79,20 @@ h4 {
 .two:hover{
   background-color: #FF8C00;
   color: #FFFFFF;
+}
+
+@media all and (max-width: 768px) {
+  .container {
+    width: 100%;
+  }
+}
+
+@media all and (max-width: 414px) {
+  .container {
+    width: 100%;
+  }
+
+  h4 {
+    font-size: 30px;
+  }
 }

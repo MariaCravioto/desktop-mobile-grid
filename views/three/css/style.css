@@ -1,1 +1,66 @@
+.container {
+  font-family: 'Bungee', cursive;
+  font-size: 40px;
+  text-align: center;
+}
 
+[class*= "col-"] {
+  color: #FFF;
+  float: left;
+  margin-top: 10px;
+  min-height: 7px;
+  padding: 12px;
+}
+
+
+.a {
+  background-color: #FFFF00;
+  height: 100px;
+  width: 100%;
+}
+
+.b {
+  background-color: #40E0D0;
+  height: 250px;
+}
+
+.c {
+  background-color:	#FF1493;
+  height: 250px;
+}
+
+.d {
+  background-color:	#FF7F50;
+  height: 250px;
+}
+
+.e {
+  background-color:	#DC143C;
+  height: 250px;
+}
+
+.f {
+  background-color:	#4169E1;
+  height: 250px;
+}
+
+.g {
+  background-color: #228B22;
+  height: 250px;
+}
+
+.h {
+    background-color: #FF69B4;
+    display: inline-block;
+    float: right;
+    height: 520px;
+    margin-top: -520px;
+}
+
+.row-box{
+  display: inline-block;
+  float: left;
+  margin-top: 10px;
+  top: 200px;
+  width: 65%;
+}
