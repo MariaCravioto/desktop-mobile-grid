@@ -1,6 +1,6 @@
 # DESKTOP-MOBILE (GRID)
 
-**General usage notes:**
+**Notas generales:**
 
 - Ahora que sabe cómo hacer una grilla en el escritorio, hagamos un desafío más divertido. Le presentamos tres desafíos, en cada imagen verá dos versiones: escritorio (a la izquierda) y móvil (a la derecha)..
 
