@@ -2,9 +2,9 @@
 
 **General usage notes:**
 
-- Now that you know how to make a grid on desktop, let's make a more fun challenge. We give you three challenges, in each image you will see two versions: desktop (on the left) and mobile (on the right).
+- Ahora que sabe cómo hacer una grilla en el escritorio, hagamos un desafío más divertido. Le presentamos tres desafíos, en cada imagen verá dos versiones: escritorio (a la izquierda) y móvil (a la derecha)..
 
-- Replicate the desktop structure and modify it to mobile as the image tells you,
+- Replicar la estructura del escritorio y modificarla al dispositivo móvil como lo indica la imagen.
 
 ![template](https://preview.ibb.co/ftfsHR/ex_desktop_mobile.png)
 
